@@ -1,0 +1,52 @@
+#azul{
+    background-color: blue;
+    margin-left: 70px;
+    margin-right: 1400px;
+}
+#vermelho{
+    background-color: red;
+    margin-left: 120px;
+    margin-right: 1300px;
+}
+#verde{
+    background-color:green;
+    margin-left: 170px;
+    margin-right: 1200px; 
+}
+#rosa{
+    background-color: pink;
+    margin-left: 220px;
+    margin-right: 1100px;
+}
+#amarelo{
+    background-color: yellow;
+    margin-left: 270px;
+    margin-right: 1000px;
+}
+#laranja{
+    background-color:orange;
+    margin-left: 320px;
+    margin-right: 900px; 
+}
+#roxo{
+    background-color:purple;
+    margin-left: 370px;
+    margin-right: 800px;
+}
+#ciano{
+    background-color:cyan;
+    margin-left: 420px;
+    margin-right: 700px;
+}
+
+header{
+    text-align: center;
+}
+#teste{
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    align-items: baseline;
+    flex-direction: row;
+    justify-content: space-between;
+}
